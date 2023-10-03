@@ -1,0 +1,39 @@
+; Field Size: x, y
+18 10
+; Traveller position: x, y, Orientation
+13 7 1
+; A set of special Fields: x, y, Bar, Color, Symbol, Symbol1, Point
+9 1 0 7 $ Z  
+9 2 0 7 $ Z  
+9 3 0 7 $ Z  
+9 4 0 7 $ Z  
+9 5 0 7 $ Z  
+9 6 0 7 $ Z  
+9 7 0 7 $ Z  
+10 1 0 7 $ Z  
+10 7 0 7 $ Z  
+11 1 0 7 $ Z  
+11 3 0 1 $ $  
+11 4 0 1 $ $  
+11 5 0 1 $ $  
+11 7 0 7 $ Z  
+12 1 0 7 $ Z  
+12 3 0 1 $ $  
+12 4 0 1 $ $  
+12 5 0 1 $ $  
+12 7 0 7 $ Z  
+13 1 0 7 $ Z  
+13 3 0 1 $ $  
+13 4 0 1 $ $  
+13 5 0 1 $ $  
+13 7 0 7 $ Z  
+14 1 0 7 $ Z  
+14 7 0 7 $ Z  
+15 1 0 7 $ Z  
+15 2 0 7 $ Z  
+15 3 0 7 $ Z  
+15 4 0 7 $ Z  
+15 5 0 7 $ Z  
+15 6 0 7 $ Z  
+15 7 0 7 $ Z  
+; End Of File
